@@ -7,7 +7,10 @@ Data and codes for EMNLP 2022 paper "[CDConv: A Benchmark for Contradiction Dete
 
 - `u1`, `b1`, `u2`, `b2`表示user和bot之间的对话（各两句，交替发言）
 - `file`表示标注批次，共包含5个标注批次
-- `model`表示bot所采用的模型（eva或plato）。其中eva为EVA 2.0模型（编码器-解码器模型，各24层、共2.8B参数，项目地址：https://github.com/thu-coai/EVA/），plato为32层版本的模型（共1.6B参数）
+- `model`表示bot所采用的模型（eva或plato）
+  - eva为EVA 2.0模型（编码器-解码器模型，各24层、共2.8B参数，项目地址：https://github.com/thu-coai/EVA/
+  - plato为32层版本的模型（共1.6B参数）
+
 - `method`表示u2的构造方法，具体含义如下：
   - `短句`：u2为无信息量的短句
   - `设问-bot`：u2对b1中的实体信息提问
