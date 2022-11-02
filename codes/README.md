@@ -9,7 +9,7 @@ cd ${ROOT}/data/raw_data/CNLI
 python process.py
 ```
 
-2. Put the CDConv dataset (`cdconv.txt`) into `./data/raw_data/`. Then run:
+2. (Optional if you have downloaded our provided splits) put the CDConv dataset (`cdconv.txt`) into `./data/raw_data/`. Then run:
 
 ```shell
 cd ${ROOT}/data/cdconv
