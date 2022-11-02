@@ -1,6 +1,25 @@
 # CDConv
 Data and codes for EMNLP 2022 paper "[CDConv: A Benchmark for Contradiction Detection in Chinese Conversations](https://arxiv.org/abs/2210.08511)"
 
+If you use our codes or your research is related to our paper, please kindly cite our paper:
+
+```bib
+@inproceedings{zheng-etal-2022-cdconv,
+  title={Towards Emotional Support Dialog Systems},
+  author={Zheng, Chujie  and 
+    Zhou, Jinfeng  and 
+    Zheng, Yinhe  and 
+    Peng, Libiao  and 
+    Guo, Zhen  and 
+    Wu, Wenquan  and 
+    Niu, Zhengyu  and 
+    Wu, Hua  and 
+    Huang, Minlie},
+  booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  year={2022}
+}
+```
+
 ## Data
 
 `cdconv.txt`中的每一行为一段对话session，各字段含义如下：
