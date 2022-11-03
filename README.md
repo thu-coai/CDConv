@@ -20,7 +20,7 @@ If you use our codes or your research is related to our paper, please kindly cit
 }
 ```
 
-**We also provided a out-of-the-box torch-version classifier (2-class) fine-tuned on CDConv on huggingface, check [here](https://huggingface.co/chujiezheng/roberta-base-cdconv). Note that the torch-version may not perform as well as the paddle-version in this repo.**
+**We also provide an out-of-the-box torch-version classifier (2-class) fine-tuned on CDConv on huggingface, check [here](https://huggingface.co/chujiezheng/roberta-base-cdconv). Note that the torch-version may not perform as well as the paddle-version in this repo.**
 
 ## Data
 
