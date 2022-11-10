@@ -5,7 +5,7 @@ If you use our codes or your research is related to our paper, please kindly cit
 
 ```bib
 @inproceedings{zheng-etal-2022-cdconv,
-  title={Towards Emotional Support Dialog Systems},
+  title={CDConv: A Benchmark for Contradiction Detection in Chinese Conversations},
   author={Zheng, Chujie  and 
     Zhou, Jinfeng  and 
     Zheng, Yinhe  and 
