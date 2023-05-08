@@ -15,7 +15,7 @@ If you use our codes or your research is related to our paper, please kindly cit
     Niu, Zhengyu  and 
     Wu, Hua  and 
     Huang, Minlie},
-  booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  booktitle={EMNLP},
   year={2022}
 }
 ```
